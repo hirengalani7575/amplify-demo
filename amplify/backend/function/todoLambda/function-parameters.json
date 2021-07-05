@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "amplifydemoe782281d": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
